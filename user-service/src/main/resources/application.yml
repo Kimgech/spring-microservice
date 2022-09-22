@@ -1,0 +1,6 @@
+spring:
+  r2dbc:
+    url: r2dbc:pool:postgresql://localhost:7434/user_db
+    username: kimgech
+    password: 123
+
